@@ -1,0 +1,67 @@
+# 🔍 Game Glitch Investigator — Reflection
+
+## 1. What was broken when you started?
+
+Describe at least **three bugs** you found while playing the game. For each bug, explain:
+- **What you expected** to happen
+- **What actually happened**
+
+### Bug 1
+- **Expected:**
+- **Actual:**
+
+### Bug 2
+- **Expected:**
+- **Actual:**
+
+### Bug 3
+- **Expected:**
+- **Actual:**
+
+---
+
+## 2. How did you use AI as a teammate?
+
+Describe **two AI suggestions** you received — one that was helpful and one that was incorrect or misleading.
+
+### Helpful Suggestion
+- **What did the AI suggest?**
+- **Why was it correct?**
+- **How did you verify it?**
+
+### Incorrect / Misleading Suggestion
+- **What did the AI suggest?**
+- **Why was it wrong or misleading?**
+- **How did you catch the mistake?**
+
+---
+
+## 3. Debugging and testing your fixes
+
+For each bug you fixed, describe:
+- **Where the bug was** (file and line/function)
+- **What the fix was**
+- **How you verified it worked** (test output, game behavior, or both)
+
+### Fix 1
+
+
+### Fix 2
+
+
+---
+
+## 4. Final Reflection
+
+Answer the following questions thoughtfully:
+
+1. **What was the hardest bug to find, and why?**
+
+
+2. **When did you choose to reject or modify an AI suggestion? What was your reasoning?**
+
+
+3. **How did writing tests change the way you thought about the code?**
+
+
+4. **What's one thing you'd do differently next time you debug AI-generated code?**
